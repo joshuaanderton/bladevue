@@ -1,5 +1,5 @@
 🚨 ***PACKAGE IS STILL IN EARLY DEVELOPMENT (PRE-V1)*** 🚨
 
-# Blazervel - Zero-configuration Laravel Development
+# Bladevue - Vue-infused blade components for Laravel
 
 Documentation coming soon...
