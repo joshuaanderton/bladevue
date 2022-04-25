@@ -1,6 +1,6 @@
 <?php
 
-namespace Blazervel\Blazervel\Providers;
+namespace Polarize\Bladevue\Providers;
 
 use Illuminate\Support\Str;
 use Illuminate\Support\Facades\Blade;

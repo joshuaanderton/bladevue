@@ -1,5 +1,5 @@
 {
-  "name": "bladevue/bladevue",
+  "name": "polarize/bladevue",
   "description": "Trailblazer method utilized for Laravel.",
   "license": "MIT",
   "authors": [
@@ -17,12 +17,12 @@
   },
   "autoload": {
       "psr-4": {
-          "Bladevue\\": "src"
+          "Polarize\\Bladevue\\": "src"
       }
   },
   "autoload-dev": {
       "psr-4": {
-          "Bladevue\\Tests\\": "tests"
+          "Polarize\\Bladevue\\Tests\\": "tests"
       }
   },
   "config": {
@@ -31,7 +31,7 @@
   "extra": {
       "laravel": {
           "providers": [
-              "Bladevue\\Providers\\BladevueServiceProvider"
+              "Polarize\\Bladevue\\Providers\\BladevueServiceProvider"
           ]
       }
   }

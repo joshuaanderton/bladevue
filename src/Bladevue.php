@@ -1,9 +1,9 @@
 <?php
 
-namespace Bladevue;
+namespace Polarize\Bladevue;
 
 use ReflectionClass;
-use Bladevue\Support\CreateBladeView;
+use Polarize\Bladevue\Support\CreateBladeView;
 use Illuminate\Routing\Route;
 use Illuminate\Contracts\Container\Container;
 use Illuminate\Support\Facades\{ View, Log, File };
